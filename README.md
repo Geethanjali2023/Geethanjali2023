@@ -18,7 +18,7 @@ Here's a glimpse of the technologies I work with in web development:
 
 ## 📈 My GitHub Stats
 
-![Geethanjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Geethanjali2023]&show_icons=true&theme=tokyonight)
+![Geethanjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geethanjali2023&show_icons=true&theme=tokyonight)
 
 
 ## 📫 How to Reach Me
