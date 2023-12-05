@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer specializing in Web Development. I love creating beautiful and efficient web applications that enhance user experience. My journey in web development is driven by my enthusiasm for learning new technologies and building projects that challenge my skills.
+I'm a passionate Software Engineer at Bosch Global Software Technologies specializing in Web Development. I love creating beautiful and efficient web applications that enhance user experience. My journey in web development is driven by my enthusiasm for learning new technologies and building projects that challenge my skills.
 
 👨‍💻 Check out my portfolio for some of my work: [Geethanjali's Portfolio](https://geethanjali2023.github.io/Geethanjali.P.github.io/).
 
