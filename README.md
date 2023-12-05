@@ -16,10 +16,6 @@ Here's a glimpse of the technologies I work with in web development:
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 
-## 📈 My GitHub Stats
-
-![Geethanjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geethanjali2023&show_icons=true&theme=tokyonight)
-
 
 ## 📫 How to Reach Me
 
