@@ -4,7 +4,7 @@
 
 I'm a passionate Software Engineer at Bosch Global Software Technologies specializing in Web Development. I love creating beautiful and efficient web applications that enhance user experience. My journey in web development is driven by my enthusiasm for learning new technologies and building projects that challenge my skills.
 
-👨‍💻 Check out my portfolio for some of my work: [Geethanjali's Portfolio](https://21fbaf72.geethanjali-p-github-io.pages.dev/).
+👨‍💻 Check out my portfolio for some of my work: [Geethanjali's Portfolio](geethanjali-p-github-io.pages.dev/).
 
 ## 💻 Tech Stack
 
