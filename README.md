@@ -32,8 +32,8 @@ Here's a glimpse of the technologies I work with in web development:
 - Email: [mailto:p.geethanjali5561@gmail.com](mailto:p.geethanjali5561@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/](https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/)
 
-## ⚡ Fun Fact
 
-I enjoy exploring the latest web technologies and trends, and I'm always on the lookout for new challenges that push the boundaries of what's possible on the web.
+
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/geethanjali-p-b4a82b1b3/). Let's innovate and create together!
 
 Thank you for stopping by my profile!
